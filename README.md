@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
-<h3 align="center">CS ' 25 @ University of Liverpool | iOS Dev Intern @ Chamberly AB</h3>
+<h3 align="center">CS ' 25 @ University of Liverpool</h3>
 
 - 🌱 I’m currently learning **React, Node JS, Analytics**
 
